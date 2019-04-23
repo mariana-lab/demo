@@ -1,14 +1,166 @@
 {
-  "codeCadets": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "codecadets": [
+    {
+      "id": 1,
+      "name": "Ana Carmo",
+      "age": 22,
+      "prediction": "Well, my bold prediction is that in 2025 we will be able to change our DNA in order to delete or change colors of a bad tattoo (with RGB system), program our legs to run faster (maybe with Javascript - not enough knowledge but I thing that's the right code language to do it), allow ourselves to go back in time (loop efect), and so much more. In the end, we should be able to change all the things that we dont like or can be improved in order to be a better person and improve the relationship with others (with PHP). Maybe this way Sartre changes his quote and make it 'Heaven is other people' (quote below)."
+    },
+    {
+      "id": 2,
+      "name": "Ana Serafim",
+      "age": 22,
+      "prediction": "Perhaps they have created a device that allows us to translate/understand the thoughts of our pets."
+    },
+    {
+      "id": 3,
+      "name": "André Lança",
+      "age": 22,
+      "prediction": "In 2025, Universities will close many courses and focus in less courses to make them solid ones. And will open much more schools that will teach young people the skills that they actually need to learn to candidate to a proper job and feel much more secure of themselves"
+    },
+    {
+      "id": 4,
+      "name": "Caio Sabino",
+      "age": 22,
+      "prediction": "I think that at this point in 2025 we will have real time maps projected on car windshields, glasses that give information about what we are looking, smart watches that can do small projections on a wall or table, etc..."
+    },
+    {
+      "id": 5,
+      "name": "Constanze Juergens",
+      "age": 22,
+      "prediction": "I imagine that by 2025 humanity will have reached a life changing point in technological progress, but will still be facing inequality when it comes to social issues."
+    },
+    {
+      "id": 6,
+      "name": "Cláudio Cardoso",
+      "age": 22,
+      "prediction": ""
+    },
+    {
+      "id": 7,
+      "name": "David Aniceto",
+      "age": 22,
+      "prediction": "My prediction somewhere in 2025 a goverment it will lead the country aided by IA"
+    },
+    {
+      "id": 8,
+      "name": "Diogo Moreira",
+      "age": 22,
+      "prediction": "Pokemon will became a real thing or there will be a science breakthrough that enables people to have superpowers. I really hope its pokemons though!!"
+    },
+    {
+      "id": 9,
+      "name": "Diogo Alves",
+      "age": 22,
+      "prediction": "i'm going to predict that there will be a new never imagined before source of energy."
+    },
+    {
+      "id": 10,
+      "name": "Fábio Sequeira",
+      "age": 22,
+      "prediction": "I think 2025 will be the year that humanity discovers that Man never went to the Moon. All that was a hoax and it was really Kubrick that directed the fake moon landing. I would be very happy if that happen."
+    },
+    {
+      "id": 11,
+      "name": "Gonçalo Cruz",
+      "age": 22,
+      "prediction": "In 7 years time, I predicte that I will be working abroad, creating some of the most breathtaking and beautiful games/apps for the younger versions of me. Also will have a whole bunch of kids."
+    },
+    {
+      "id": 12,
+      "name": "João Marques",
+      "age": 22,
+      "prediction": "I would predict that eye glasses would have the possibility to be used as standard phones, also that nowadays cars that use HUD's systems (Head Up Display Systems) might be replaced by an entire or partial windshield in which it is the actual display. And that one of the solutions for in vehicle systems simplification (also applicable for aeronautics) is the removal of most displays and clusters to use in the end just a eye glass that can virtually display all the information from the vehicle."
+    },
+    {
+      "id": 13,
+      "name": "Johny Oak",
+      "age": 22,
+      "prediction": "By 2025 I'll have created my own programming language, it'll be called java.li."
+    },
+    {
+      "id": 14,
+      "name": "Juliana Orem",
+      "age": 22,
+      "prediction": "That's a hard one..."
+    },
+    {
+      "id": 15,
+      "name": "Lucas Francisco",
+      "age": 22,
+      "prediction": "The world will burn in a war between idiots who happen to be in charge of their country. We started with America and more recently Brasil, making me fear for our safety."
+    },
+    {
+      "id": 16,
+      "name": "Luís Lopes",
+      "age": 22,
+      "prediction": "We will no longer carry smartphone devices and all the technology will be embedded in our bodies and if my calculations are correct, Benfica will also be Octo-Champion by then."
+    },
+    {
+      "id": 17,
+      "name": "Mafalda Santos",
+      "age": 22,
+      "prediction": "It’s the year 2025 and people have finally overcome the stigma of eating bugs."
+    },
+    {
+      "id": 18,
+      "name": "Milene Martins",
+      "age": 22,
+      "prediction": "Sophia, the AI, now lives in Germany, on her own, like any independent robot. In the year 2019 she was invited to take a seat in United Nations Parliament, to be an imparcial voice.  She also knows how to ride a bike as she goes to the Netherlands quite often. To keep her company, Hanson Robotics created Billy, a robot poodle with synthetic fur. So cute! Jk. Sophia is outdated in 2025, she now works at McDonalds"
+    },
+    {
+      "id": 19,
+      "name": "Nuno Santos",
+      "age": 22,
+      "prediction": "The European Union will centralize and rename itself to The New Holy Roman Empire, Austria will gain a claim to the EU presidency and in the future annex the pope and create a mega church on the basis of free trade, free movement and social responsibility."
+    },
+    {
+      "id": 20,
+      "name": "Nuno Teixeira",
+      "age": 22,
+      "prediction": "Self-driving cars controlled by the owner's voice."
+    },
+    {
+      "id": 21,
+      "name": "Pedro Gonçalves",
+      "age": 22,
+      "prediction": "In the year 2025 the world will know peace. People will come together in a demand for peace and they will be heard by the world leaders.  Decision makers will design policies based on scientific knowledge, energy policies based on science, social policies based on sociology and anthropology, markets regulation based on economy. Inequality will be gradually reduced and societies will organize themselves in order to assure that every man is born free."
+    },
+    {
+      "id": 22,
+      "name": "Pedro Campos",
+      "age": 22,
+      "prediction": "In 2025, the majority of aging people will benefit from access to health apps that will allow them to have more autonomy and well-being."
+    },
+    {
+      "id": 23,
+      "name": "Rodrigo Guedes",
+      "age": 22,
+      "prediction": "Given the state of things,  the rapid rate of technological development and, of course, Moore’s law. A fully technological future is no big news. But, if I am to be bold and predict something, then it would be the stealthiness of technology. As in, the devises would be there. Your phone, your computer your TV… but unless it is being used, you wouldn’t notice it would be there. The screens, obviously transparent, or implanted on a wall or surface, but the chips would be measured in nanometers (has some already are) . The bold part of the prediction in this case will be the fact that I predicted to be wildly commercialized. If I were to compare, I guess that it would be something like how a smart TV is relevant and affordable now a days. Another not so bold prediction is that in 2025 I will be celebrating my 6th anniversary of graduation from Academia de código. "
+    },
+    {
+      "id": 24,
+      "name": "Sam Vagos",
+      "age": 22,
+      "prediction": "Maybe we'll finally get Half-Life 3 and be able to play it while our self-driving car takes us to work. Maybe I'll be able to afford both of those with my fancy high-paying programmer job. Maybe I'll join Valve and help code the thing (ok that might be a bit *too* bold). "
+    },
+    {
+      "id": 25,
+      "name": "Sandra Dias",
+      "age": 22,
+      "prediction": "In 2025 I`ll be a well succeeded full stack web developer. That will surprise a lot of people! I guarantee you that no one else predicted that. I hope that the well succeeded part is not too bold, but I`ll surely be working hard to get there."
+    },
+    {
+      "id": 26,
+      "name": "Saúl Belchior",
+      "age": 22,
+      "prediction": "We will achieve world peace! To bold?"
+    },
+    {
+      "id": 27,
+      "name": "Ricardo Araújo",
+      "age": 22,
+      "prediction": "MY BOLD PREDICTION COULD NOT BE ANY OTHER THAN CONSIDERING THE CURRENT SITUATION OF MY COUNTRY. IN 2025 I'LL BE BACK TO BRAZIL, AFTER PASSING THE LAST YEARS ACQUIRING EXPERIENCE AS A PARTNER IN THE CODE ACADEMY, TO STARTING THE FIRST BOOTCAMP BRAZIL CODE ACADEMY. CHILDREN AND YOUNG PEOPLE MAY HAVE THE CHANCE OF LIFTING THEIR LEVEL LIVES AND BECOME THE FIRST CODE CADETS FORMED IN BRAZILIAN SOIL. AND I WILL BE THE HAPPIER MAN IN THE WORLD."
+    }
+  ]
 }
